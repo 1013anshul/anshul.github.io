@@ -5,14 +5,26 @@ Vaughan, Ontario | anshul1013@gmail.com | [LinkedIn](Your_LinkedIn_Profile_Link)
 # Projects
 <table>
   <tr>
-    <!-- First Project -->
+    <!-- First Project Heading & Logo -->
     <td valign="top" width="200">
 
 ## [Uber Supply-Demand Gap Analysis](./Uber-supply-demand.md):
-<img src="./Assets/uberlogo.png" alt="uberlogo" width="1300">
+<img src="./Assets/uberlogo.png" alt="uberlogo" width="300">
 
     </td>
-    <td valign="top" style="font-size: 2 em;">
+    
+    <!-- Second Project Heading & Logo -->
+    <td valign="top" width="200">
+
+## [Uber Supply-Demand Gap Analysis](./Uber-supply-demand.md):
+<img src="./Assets/uberlogo.png" alt="uberlogo" width="300">
+
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- First Project Description -->
+    <td valign="top" style="font-size: 0.9em;">
 
 ### Central Challenge: 
 - Tackling a pronounced supply-demand imbalance in Uber's daily operations.
@@ -25,14 +37,8 @@ Vaughan, Ontario | anshul1013@gmail.com | [LinkedIn](Your_LinkedIn_Profile_Link)
 
     </td>
     
-    <!-- Second Project -->
-    <td valign="top" width="200">
-
-## [Uber Supply-Demand Gap Analysis](./Uber-supply-demand.md):
-<img src="./Assets/uberlogo.png" alt="uberlogo" width="1300">
-
-    </td>
-    <td valign="top" style="font-size: 2em;">
+    <!-- Second Project Description -->
+    <td valign="top" style="font-size: 0.9em;">
 
 ### Central Challenge: 
 - Tackling a pronounced supply-demand imbalance in Uber's daily operations.
