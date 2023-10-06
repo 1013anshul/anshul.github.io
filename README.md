@@ -2,16 +2,6 @@
 
 Vaughan, Ontario | anshul1013@gmail.com | [LinkedIn](Your_LinkedIn_Profile_Link) | Phone: 647 534 4313 
 
-## 🎓 Education
-
-- **Georgian College, Barrie, Canada**  
-  - Big Data Analytics (Specialization in Hadoop, Hive)  
-    Dec 2023
-
-- **Symbiosis School of Economics, Pune, India**  
-  - B.Sc Economics (hons.)  
-    Apr 2018
-
 ## 💼 Work Experience
 
 ### LTV SaaS Fund, New York, USA
