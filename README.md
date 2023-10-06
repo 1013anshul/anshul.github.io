@@ -3,10 +3,9 @@ Vaughan, Ontario | anshul1013@gmail.com | [LinkedIn](Your_LinkedIn_Profile_Link)
 #### [Click here for my Resume](./resume.html)
 
 # Projects
-
 ### [Uber Supply-Demand Gap Analysis](./Uber-supply-demand.md):
 
-<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" align="left" />
+<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" />
 
 #### Central Challenge: 
 - Tackling a pronounced supply-demand imbalance in Uber's daily operations.
@@ -21,7 +20,7 @@ Vaughan, Ontario | anshul1013@gmail.com | [LinkedIn](Your_LinkedIn_Profile_Link)
 
 ### [Uber Supply-Demand Gap Analysis](./Uber-supply-demand.md):
 
-<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" align="right" />
+<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" />
 
 #### Central Challenge: 
 - Tackling a pronounced supply-demand imbalance in Uber's daily operations.
