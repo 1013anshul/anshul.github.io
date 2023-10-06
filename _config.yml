@@ -2,4 +2,5 @@ title: Anshul Kumar
 # logo: 
 description: description here
 show_downloads: True
-theme: jekyll-remote-theme
+remote_theme: pages-themes/cayman@v0.2.0
+plugins: - jekyll-remote-theme 
