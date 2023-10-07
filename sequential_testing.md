@@ -1,3 +1,5 @@
+[⏪ Back](./)
+
 # Unlocking Faster & Accurate A/B Test Results: Learning from Uber's Success 🚖✨
 
 Hello there, fellow data enthusiasts! 🙋‍♂️
@@ -38,3 +40,5 @@ Imagine you're nurturing a plant. Instead of waiting for months to see if it bea
 In the realm of A/B testing, patience is certainly a virtue. However, with methodologies like sequential testing, we can have the best of both worlds. We can obtain early and accurate results that drive intelligent and timely business decisions. So, the next time you find yourself eagerly eyeing that test dashboard, remember: there's a way to act faster without compromising on accuracy.
 
 A heartfelt shoutout to Uber and Olivia, their brilliant data scientist, for sharing these invaluable insights and inspiring us to rethink how we approach A/B testing. Let's embrace the power of sequential testing and test smarter, not harder!
+
+[⏪ Back](./)
