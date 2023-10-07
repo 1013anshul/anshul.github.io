@@ -1,4 +1,7 @@
 ## Projects
+[Click here for my resume](./resume.md)
+
+
 ### [Filling in the Uber Supply-Demand Gap](./Uber-supply-demand.md):
 [<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" />](./Uber-supply-demand.md)
 
