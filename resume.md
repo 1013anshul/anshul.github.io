@@ -1,3 +1,4 @@
+[⏪ Back to Portfolio](./)
 # Anshul Kumar
 
 Vaughan, Ontario | anshul1013@gmail.com | [LinkedIn](Your_LinkedIn_Profile_Link) | Phone: 647 534 4313 
@@ -46,4 +47,4 @@ _Data Scientist Associate_
 
 ---
 
-🔗 For more detailed projects and code samples, explore the repositories on this GitHub profile.
+[⏪ Back to Portfolio](./)
