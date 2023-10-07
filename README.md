@@ -1,5 +1,5 @@
 ## Projects
-### [Uber Supply-Demand Gap Analysis](./Uber-supply-demand.md):
+### [Filling in the Uber Supply-Demand Gap](./Uber-supply-demand.md):
 [<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" />](./Uber-supply-demand.md)
 
 **Central Challenge:**
