@@ -21,7 +21,7 @@ Upon analysis, it was observed that the pattern of requests is quite interesting
 high volumes during morning and evening rush hours. A significant number of trips are 
 being **canceled in the early morning** hours and a large number of **no cars available** during the evening rush hours.
 
-![2](./Assets/2.png)
+![2](./assets/images/2.png)
 
 ### Time Binning
 To better understand the flow of requests throughout the day, time was segmented into:
@@ -33,7 +33,7 @@ To better understand the flow of requests throughout the day, time was segmented
 
 Post-segmentation, a clearer image of the supply-demand challenge emerged. Two bars, one green and one orange, 
 were particularly prominent. These bars are indicative of the challenges faced during the Evening and Morning rush hours.
-![3](./Assets/3.png)
+![3](./assets/images/3.png)
 
 #### Morning Rush: City to Airport Cancellations
 
@@ -45,7 +45,7 @@ The data visualization pertaining to the status of trips during the **morning ru
   - **Driver Concerns**: Drivers might be hesitant to accept these rides due to the apprehension about getting stuck in the traffic, longer waiting times at the airport, or the uncertainty of securing a fare for the return trip.
   - **Passenger Concerns**: There might be instances where passengers cancel due to long estimated arrival times of the cars, opting for quicker alternatives.
 
-![4](./Assets/4.png)
+![4](./assets/images/4.png)
 
 #### Evening Rush: Car Availability at the Airport
 
@@ -60,7 +60,7 @@ The scenario shifts quite drastically when we analyze the **evening rush** data.
   - **High Demand Elsewhere**: Drivers might be occupied serving high-demand areas in the city, making them unavailable at the airport.
   - **Operational Challenges**: Factors such as limited parking spaces, longer waiting times due to stringent security checks at the airport, or even the distance of the airport from the city center might deter drivers from being readily available at the airport.
 
-![5](./Assets/5.png)
+![5](./assets/images/5.png)
 ### **Key Trends Observed from Binning**:
 
 - **City to Airport Morning Cancellations**: 

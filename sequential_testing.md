@@ -17,7 +17,7 @@ As the data started trickling in, the excitement in the Uber team was palpable. 
 
 Imagine an allowance jar, labeled "significance," brimming with tokens representing 95% of your A/B test's confidence level. The remaining 5% symbolizes the error margin. Rather than expending these tokens all at once, sequential testing proposes a staggered approach.
 
-![Sequential Testing Graph](./Assets/sequential.png)
+![Sequential Testing Graph](./assets/images/sequential.png)
 
 The red line in the graph symbolizes this 95% significance threshold. In the test's infancy, with limited data, crossing this line is challenging. However, as more data flows in, crossing this significance barrier becomes more feasible.
 

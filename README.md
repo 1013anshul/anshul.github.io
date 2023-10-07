@@ -3,7 +3,7 @@
 
 
 ### [Filling in the Uber Supply-Demand Gap](./Uber-supply-demand.md):
-[<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" />](./Uber-supply-demand.md)
+[<img src="./assets/images/uberlogo.png" alt="uberlogo" width="150" />](./Uber-supply-demand.md)
 
 **Central Challenge:**
 Tackling a pronounced supply-demand imbalance in Uber's daily operations.
@@ -17,7 +17,7 @@ Tackling a pronounced supply-demand imbalance in Uber's daily operations.
 
 ### [Let's work smarter and faster with our A/B testing](./sequential_testing.md):
 
-[<img src="./Assets/sequential.png" alt="uberlogo" width="150" />](./sequential_testing.md)
+[<img src="./assets/images/sequential.png" alt="uberlogo" width="150" />](./sequential_testing.md)
 
 **The Dilemma:** While real-time data provides rapid insights, acting on it prematurely can lead to misleading results.
   
