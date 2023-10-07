@@ -1,11 +1,6 @@
-Vaughan, Ontario | anshul1013@gmail.com | [LinkedIn](Your_LinkedIn_Profile_Link) | Phone: 647 534 4313 
-
-#### [Click here for my Resume](./resume.html)
-
-# Projects
+## Projects
 ### [Uber Supply-Demand Gap Analysis](./Uber-supply-demand.md):
-
-<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" />
+[<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" />](./Uber-supply-demand.md)
 
 #### Central Challenge: 
 - Tackling a pronounced supply-demand imbalance in Uber's daily operations.
