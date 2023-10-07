@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header .btn {
+    font-size: 14px;      /* Reduce the font size */
+    padding: 5px 10px;   /* Reduce the padding around the text */
+}
