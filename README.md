@@ -13,9 +13,9 @@
 
 ---
 
-### [Uber Supply-Demand Gap Analysis](./Uber-supply-demand.md):
+### [Let's work smarter and faster with our A/B testing](./Uber-supply-demand.md):
 
-<img src="./Assets/uberlogo.png" alt="uberlogo" width="150" />
+<img src="./Assets/sequential.png" alt="uberlogo" width="150" />
 
 #### Central Challenge: 
 - Tackling a pronounced supply-demand imbalance in Uber's daily operations.
