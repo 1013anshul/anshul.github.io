@@ -1,4 +1,4 @@
-[Click here for my resume](./resume.md)
+[My Resume](./resume.md) | [LinkedIn](https://www.linkedin.com/in/anshul-kumar-96570713a/) 
 
 ### [Filling in the Uber Supply-Demand Gap:](./Uber-supply-demand.md)
 [<img src="./assets/images/uberlogo.png" alt="uberlogo" width="150" />](./Uber-supply-demand.md)
