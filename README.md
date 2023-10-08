@@ -1,6 +1,6 @@
 [Click here for my resume](./resume.md)
 
-### [Filling in the Uber Supply-Demand Gap](./Uber-supply-demand.md):
+### [Filling in the Uber Supply-Demand Gap:](./Uber-supply-demand.md)
 [<img src="./assets/images/uberlogo.png" alt="uberlogo" width="150" />](./Uber-supply-demand.md)
 
 **Central Challenge:**
@@ -13,7 +13,7 @@ Tackling a pronounced supply-demand imbalance in Uber's daily operations.
 
 ---
 
-### [Let's work smarter and faster with our A/B testing](./sequential_testing.md):
+### [Let's work smarter and faster with our A/B testing:](./sequential_testing.md)
 
 [<img src="./assets/images/sequential.png" alt="uberlogo" width="150" />](./sequential_testing.md)
 
@@ -24,9 +24,9 @@ Tackling a pronounced supply-demand imbalance in Uber's daily operations.
 
 ---
 
-### [Understanding Churn](./solution_telecom_churn.md):
+### [Understanding Churn:](./solution_telecom_churn.md)
 
-[<img src="./assets/images/sequential.png" alt="uberlogo" width="150" />](./solution_telecom_churn.md)
+[<img src="./assets/images/churn.png" alt="uberlogo" width="150" />](./solution_telecom_churn.md)
 
 **The Dilemma:** 
   
