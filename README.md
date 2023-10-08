@@ -26,9 +26,9 @@ Tackling a pronounced supply-demand imbalance in Uber's daily operations.
 
 ---
 
-### [Understanding Churn](./solution_telecom_churn.ipynb):
+### [Understanding Churn](./solution_telecom_churn.md):
 
-[<img src="./assets/images/sequential.png" alt="uberlogo" width="150" />](./solution_telecom_churn.ipynb)
+[<img src="./assets/images/sequential.png" alt="uberlogo" width="150" />](./solution_telecom_churn.md)
 
 **The Dilemma:** 
   
