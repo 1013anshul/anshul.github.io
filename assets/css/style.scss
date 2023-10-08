@@ -1,26 +1,26 @@
 // Breakpoints
-$large-breakpoint: 64em !default;
-$medium-breakpoint: 42em !default;
+$large-breakpoint: 64em ;
+$medium-breakpoint: 42em ;
 
 // Headers
-$header-heading-color: #ffffff !default;
-$header-bg-color: #1a1a1a !default; // Darker shade for the header background
-$header-bg-color-secondary: #0d3d56 !default;
+$header-heading-color: #ffffff;
+$header-bg-color: #1a1a1a; // Darker shade for the header background
+$header-bg-color-secondary: #0d3d56;
 
 // Text
-$section-headings-color: #127865 !default; // Slight change for accent
-$body-text-color: #4a4a4a !default; // Darker for better readability
-$body-link-color: #1565c0 !default; // A more subtle blue
-$blockquote-text-color: #6b7b8c !default; 
+$section-headings-color: #127865; // Slight change for accent
+$body-text-color: #4a4a4a; // Darker for better readability
+$body-link-color: #1565c0; // A more subtle blue
+$blockquote-text-color: #6b7b8c; 
 
 // Code
-$code-bg-color: #f7f9fc !default;
-$code-text-color: #4f6677 !default;
+$code-bg-color: #f7f9fc;
+$code-text-color: #4f6677;
 
 // Borders
-$border-color: #e4e8ed !default;
-$table-border-color: #dde1e6 !default;
-$hr-border-color: #eef0f2 !default;
+$border-color: #e4e8ed;
+$table-border-color: #dde1e6;
+$hr-border-color: #eef0f2;
 
 // Your customizations
 $header-bg-color: #000000;
