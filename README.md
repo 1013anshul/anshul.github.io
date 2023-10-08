@@ -25,3 +25,13 @@ Tackling a pronounced supply-demand imbalance in Uber's daily operations.
  In essence, with Sequential Testing, businesses can confidently and profitably end their experiments early, ensuring they act on reliable data without unnecessary delays.
 
 ---
+
+### [Understanding Churn](./sequential_testing.md):
+
+[<img src="./assets/images/sequential.png" alt="uberlogo" width="150" />](./churn.md)
+
+**The Dilemma:** 
+  
+**Benefit of Sequential Testing:**
+
+---
