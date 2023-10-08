@@ -87,10 +87,6 @@ plt.ylabel('Density')
 plt.legend()
 plt.show()
 ```
-
-
-    
-![png](churn_files/churn_7_0.png)
     
 
 
