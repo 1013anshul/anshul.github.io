@@ -9,14 +9,14 @@ Toronto, Ontario | anshul1013@gmail.com | [LinkedIn](https://www.linkedin.com/in
 ## 💼 My Work Experience
 
 ### LTV SaaS Fund, New York, USA
-_Data Scientist and Strategy Consultant (Part - time)_  
+_Data Strategy Consultant (Part - time)_  
 - Led the development and roll-out of a centralized reporting structure, improving data accuracy by 57%.
 - Innovatively crafted an automated SQL database from the ground up, achieving a 90% reduction in data retrieval times, enhancing management efficiency.
 - Led the scraping of over 1 million websites' descriptions, categorizing them using OpenAI API for refined KYC assessments.
 - Spearheaded a churn prediction model project, achieving an 18% reduction in customer attrition.
 
 ### CareerFoundry, Germany
-_Data Science and Analytics Mentor (Freelance)_  
+_Data Analytics Mentor (Freelance)_  
 - Conducted practical sessions on SQL, Python libraries, and Power BI, emphasizing hands-on learning.
 - Garnered a 95% student satisfaction rate, reflecting in end-of-course surveys.
 - Mentored students, resulting in a significant boost in job placements.
@@ -28,7 +28,7 @@ _Lead Data Scientist and Product Analyst_
 - Implemented k-means clustering algorithms, refining customer segmentation and identifying at-risk Power Users.
 
 ### Instamojo, Bangalore, India
-_Sr. Data Scientist_  
+_Sr. Data Analyst_  
 - Delved into clickstream data with Python, SQL, and Mixpanel, unveiling patterns and enhancing user signups by 20%.
 - Pioneered a machine learning fraud detection model, attaining 85% effectiveness after rigorous optimization.
 
