@@ -2,7 +2,7 @@
 
 # Anshul Kumar
 
-Toronto, Ontario | anshul1013@gmail.com | [LinkedIn]([Your_LinkedIn_Profile_Link](https://www.linkedin.com/in/anshul-kumar-96570713a/)) | Phone: 647 534 4313
+Toronto, Ontario | anshul1013@gmail.com | [LinkedIn](https://www.linkedin.com/in/anshul-kumar-96570713a/) | Phone: 647 534 4313
 
 ### [Click here for my Portfolio](./)
 
