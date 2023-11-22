@@ -16,7 +16,7 @@ _Data Strategy Consultant (Part - time)_
 - Initiated and managed a data pipeline, utilizing Python for scraping content from over 1 million websites and OpenAI API integration for refined Know Your Customer (KYC) assessments.
 
 ### PlotX, New Delhi, India
-_Lead Data Scientist and Product Analyst_  
+_Lead Product Analyst_
 - Developed a scalable Customer Data Platform (CDP) with SQL and Python, integrating APIs from Mixpanel, Adjust, and UXCam to centralize analytics. Created and managed database, tables, views, and automated maintenance with cron jobs for efficient data segmentation.
 - Created a suite of real-time Tableau dashboards, each focused on critical business metrics including Lifetime Value (LTV), Customer Acquisition Cost (CAC), Retention, and Revenue Retention, equipping stakeholders with precise, actionable insights for each key performance area. 
 - Designed and headed A/B testing experiments that directly informed product enhancements, resulting in a notable 27% increase in the login-to-transaction conversion rate.
@@ -45,10 +45,10 @@ _Data Analytics Mentor (Freelance)_
 
   
 ## 🛠 Skills
-- **Data Analysis:** Advanced SQL, Python, R
-- **Visualization:** Tableau, Power BI
+- **Data Analysis:** Advanced SQL, Python, Pandas, seaborn, matplotlib, NumPy, MySQL, PostgreSQL, NoSQL, mySQL, Snowflake, Redshift
+- **Visualization:** Tableau, Power BI, Looker
 - **Machine Learning:** Decision Trees, k-means clustering, Random Forest
-- **Other:** GraphQL, Mixpanel, Google Bigquery, Attention to detail
+- **Other:** AWS, Azure, GCP, Bigquery, Docker, Google Analytics 4, Mixpanel
 
 ## 📜 Education
 **Georgian College,** Barrie, Canada  
