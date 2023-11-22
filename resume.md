@@ -10,9 +10,9 @@ Toronto, Ontario | anshul1013@gmail.com | [LinkedIn](https://www.linkedin.com/in
 
 ### LTV SaaS Fund, New York, USA
 _Data Strategy Consultant (Part - time)_  
-- Led the development and roll-out of a centralized reporting structure, improving data accuracy by 57%.
-- Innovatively crafted an automated SQL database from the ground up, achieving a 90% reduction in data retrieval times, enhancing management efficiency.
-- Led the scraping of over 1 million websites' descriptions, categorizing them using OpenAI API for refined KYC assessments.
+- Overhauled SQL database pipelines for optimal efficiency, introducing robust SQL scripting and maintenance practices that slashed data retrieval times by 90%, significantly enhancing executive management's decision-making process.
+- Conducted thorough use case analyses and led the development of a centralized reporting system, leveraging SQL and Python for data manipulation, improving data accessibility and accuracy by 57% thereby facilitating strategic business decisions.
+- Designed and implemented interactive, user-friendly dashboards distilling 1 million+  data points in Tableau, enabling intuitive access to business metrics and insights, resulting in improved stakeholder engagement and data-driven decision-making.
 - Spearheaded a churn prediction model project, achieving an 18% reduction in customer attrition.
 
 ### CareerFoundry, Germany
@@ -27,10 +27,6 @@ _Lead Data Scientist and Product Analyst_
 - Led efforts to refine the analytics framework, achieving a 77% reduction in data inaccuracies.
 - Implemented k-means clustering algorithms, refining customer segmentation and identifying at-risk Power Users.
 
-### Instamojo, Bangalore, India
-_Sr. Data Analyst_  
-- Delved into clickstream data with Python, SQL, and Mixpanel, unveiling patterns and enhancing user signups by 20%.
-- Pioneered a machine learning fraud detection model, attaining 85% effectiveness after rigorous optimization.
 
 ### Ugam (Dentsu), Pune, India
 _Data Scientist Associate_  
