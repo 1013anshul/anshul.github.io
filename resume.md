@@ -63,3 +63,5 @@ _B.Sc Economics (hons.)_ - Apr 2018
 - Data Analysis with Python - May 2021
 
 [⏪ Back to Portfolio](./)
+
+[PDF](./assets/case_study.pdf).
