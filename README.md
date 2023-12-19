@@ -1,5 +1,15 @@
  [My Resume](./resume.md)      |       [LinkedIn](https://www.linkedin.com/in/anshul-kumar-96570713a/) 
 
+### [Super.com A Case Study:](https://docs.google.com/presentation/d/1WgZA6TlsfpeNK_npGpdy7Ieo0BfOiLxpwzXhwKIW3EM/edit?usp=sharing)
+[<img src="./assets/images/super.png" alt="uberlogo" width="150" />](https://docs.google.com/presentation/d/1WgZA6TlsfpeNK_npGpdy7Ieo0BfOiLxpwzXhwKIW3EM/edit?usp=sharing)
+
+**Central Challenge:** Finding out insights in Travellers data from Super.com
+
+**Analytical Strategy:**
+- Key Insights: Identified critical service bottlenecks during weekdays and the popularity of weekends for traveling and booking.
+- Recommendations: Devised a set of strategic interventions, ranging from one-click reservations, pay later, etc.
+
+---
 ### [Filling in the Uber Supply-Demand Gap:](./Uber-supply-demand.md)
 [<img src="./assets/images/uberlogo.png" alt="uberlogo" width="150" />](./Uber-supply-demand.md)
 
