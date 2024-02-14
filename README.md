@@ -1,6 +1,6 @@
  [My Resume](./resume.md)      |       [LinkedIn](https://www.linkedin.com/in/anshul-kumar-96570713a/) 
 
-### [Super.com A Case Study:](https://docs.google.com/presentation/d/1WgZA6TlsfpeNK_npGpdy7Ieo0BfOiLxpwzXhwKIW3EM/edit?usp=sharing)
+### [Holiday Travel A Case Study:](https://docs.google.com/presentation/d/1WgZA6TlsfpeNK_npGpdy7Ieo0BfOiLxpwzXhwKIW3EM/edit?usp=sharing)
 [<img src="./assets/images/super.png" alt="uberlogo" width="150" />](https://docs.google.com/presentation/d/1WgZA6TlsfpeNK_npGpdy7Ieo0BfOiLxpwzXhwKIW3EM/edit?usp=sharing)
 
 **Central Challenge:** Finding out insights in Travellers data from Super.com
