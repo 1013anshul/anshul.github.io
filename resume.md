@@ -64,4 +64,4 @@ _B.Sc Economics (hons.)_ - Apr 2018
 
 [⏪ Back to Portfolio](./)
 
-[PDF](./assets/case_study.pdf).
+[PDF](./assets/ResumeAnshul.pdf).
